@@ -1,0 +1,6 @@
+{
+  "name": "شات ملوك العرب المتطور | CodyChat Royal Edition",
+  "description": "منصة الدردشة الملكية الصوتية والكتابية - نظام المايكات المدمجة، تأجير الشات والغرف بكود iFrame، وبوابة دخول الزوار والأعضاء.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
